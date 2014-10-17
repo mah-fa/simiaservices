@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+.tstborder {
+    border: 2px ridge #000;
+}
+.tstmargin {
+    margin-top: 10px;
+}
+.hugetxt {
+    font-size: 126px;
+}
+.simiatxt {
+    font-size: 120px;
+    margin-top:-35%; 
+}
+.fonttxtfa {
+    font-size: 120px;
+    font-family: 'Droid Arabic Kufi', serif;
+    margin-top:-20%;
+}
+.fonttxten {
+    font-family: 'ubuntu', sans-serif;
+}
+.videomargin {
+    margin-top: 28%;
+}
+.menutxt {
+    font-family: 'Droid Arabic Kufi', serif;
+    font-size: 11px;
+    font-weight: 700;
+}
+a {
+    text-decoration: none;
+}
+.storemargin {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Droid Arabic Kufi', serif;
+    direction: rtl;
+}
+.tsttext {
+    font-family: 'Droid Arabic Kufi', serif;
+    font-size: 181px;
+    font-weight:bold;
+}
+.picmargin {
+    margin-top: 17%;
+}
+.mapmargin {
+    margin-top: 10%;
+}
+.menu {
+    z-index: 1000;
+}
+.fxd {
+    background: white;
+    position:sticky;
+    max-width:;
+    margin-top:0px;
+}
